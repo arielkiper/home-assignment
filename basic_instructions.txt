@@ -1,0 +1,9 @@
+﻿I implemented my solution using Python 3.
+
+
+outrain.py is the soution for OutRain assignment:
+can run as is.
+
+
+out_of_drives.py is the solution for OutOfDrives assignment:
+need to change the const INPUT_FILE to the path of the input.txt (i used my local path).
